@@ -1,4 +1,11 @@
-For this task, I chose to use GitHub Copilot within visual Studio Code as the tool and IDE, respectively. GitHub Copilot is an AI-powered code completion assistant developed by GitHub and OpenAI. It is particularly effective in this context due to its ability to generate code snippets, provide intelligent suggestions and offer solutions based on extensive training on public code repositories. Visual Studio Code (VS Code) complements Copilot perfectly as it is a versatile, lightweight, and highly extensible code editor that supports a wide range of programming languages and tools. The combination of GitHub Copilot and VS Code enhances productivity and coding efficiency, allowing for rapid development and iteration while maintaining high code quality. This pairing is ideal for both experienced developers seeking to streamline their workflow and beginners looking to learn and adopt best coding practices.
-
+For this task, I chose to use GitHub Copilot within visual Studio Code as the tool and IDE, respectively. 
+GitHub Copilot is an AI-powered code completion assistant developed by GitHub and OpenAI. It is particularly 
+effective in this context due to its ability to generate code snippets, provide intelligent suggestions and 
+offer solutions based on extensive training on public code repositories. 
+Visual Studio Code (VS Code) complements Copilot perfectly as it is a versatile, lightweight, and highly extensible 
+code editor that supports a wide range of programming languages and tools. The combination of GitHub Copilot and VS Code
+enhances productivity and coding efficiency, allowing for rapid development and iteration while maintaining high code quality.
+This pairing is ideal for both experienced developers seeking to streamline their workflow and beginners looking to learn and
+adopt best coding practices.
 
 FALTA ---> how the assistant helped you, or if it was actually worse.
