@@ -1,10 +1,15 @@
 For this task, I have chosen to use Gemini Code Assistant within Visual Studio Code as the tool and IDE, respectively. 
 Gemini Code Assistant is an AI-powered code completion assistant developed by OpenAI. It is particularly effective in this 
-context due to its ability to generate code snippets, provide intelligent suggestions, and offer solutions based on 
-extensive training with public code repositories. Visual Studio Code (VS Code) complements Gemini Code Assistant perfectly, 
-as it is a versatile, lightweight, and highly extensible code editor that supports a wide range of programming languages and 
+context due to its ability to generate code snippets, provide intelligent suggestions and offer solutions based on 
+extensive training with public code repositories. VS Code complements Gemini Code Assistant perfectly, 
+as it is a versatile, lightweight and highly extensible code editor that supports a wide range of programming languages and 
 tools. The combination of Gemini Code Assistant and VS Code enhances productivity and coding efficiency, allowing for rapid 
 development and iteration while maintaining high code quality. This pairing is ideal for both experienced developers looking 
 to streamline their workflow and beginners aiming to learn and adopt best coding practices.
 
-FALTA ---> how the assistant helped you, or if it was actually worse.
+The assistant helped me in the area of ​​code generation, review and general programming queries, the assistant proves to be an 
+invaluable resource. Effectively generate code, provide comprehensive reviews, and answer questions with detailed explanations 
+that close gaps in understanding complex programming concepts. By translating code snippets between languages, suggesting best 
+practices and highlighting potential improvements, the assistant improves both the development process and the learning experience. 
+This support is particularly useful for developers of all levels, as it facilitates a smoother workflow and a deeper understanding 
+of the complexities involved in software development.
