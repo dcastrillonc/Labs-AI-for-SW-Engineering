@@ -1,0 +1,23 @@
+PROMPTS AND OUTPUTS
+
+### Reverse String Function
+The `reverse_string(s: str) -> str` function in Python is a straightforward utility for reversing strings. 
+When applied, for example, to the string "hello world", it outputs "dlrow olleh". This reversed result is produced 
+by Python’s slicing mechanism, which, when given the slice notation `[::-1]`, iterates over the string in reverse. 
+The output is simple and direct, displaying the reversed string in the console. This function is especially useful 
+in contexts where data manipulation or certain string formatting tasks are required.
+
+### UUID Generation Using Python's `secrets` Module
+The `generate_uuid()` function utilizes Python's `secrets` module to generate a secure, random UUID. This function 
+crafts the UUID by generating 16 bytes of secure random data, which are then converted to a hexadecimal string. 
+Each invocation of this function results in a unique and unpredictable UUID string being printed, such as "9fd4b49fe7c64a879f4e2aa79b9c3e28". 
+The randomness and security of these UUIDs make them ideal for applications requiring unique identifiers that must also resist prediction and 
+duplication, such as in secure transactions or session identifiers in web applications.
+
+### Menu System
+The interactive menu system implemented in Python allows users to interactively select from options to display the menu again, 
+add numbers, subtract numbers, or quit the program. The output varies based on the user's input:
+- **Show Menu**: Clears the screen and displays the menu options again.
+- **Add Numbers**: Prompts the user to enter numbers and then displays the sum. For instance, if the user inputs `5` and `3`, the output will be "The sum is: 8".
+- **Subtract Numbers**: Similar to addition but for subtraction. If a user enters `10` and `4`, it outputs "The difference is: 6".
+- **Quit**: Breaks the loop and ends the program, usually with no additional message unless specifically programmed to notify the user of the program's termination.
