@@ -1,5 +1,5 @@
+# Ruby Snippet
 def menu():
-  """Displays the menu options."""
   menu_string = "1. Show Menu\n"
   menu_string += "2. Add Numbers\n"
   menu_string += "3. Subtract Numbers\n"
